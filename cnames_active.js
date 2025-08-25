@@ -3609,5 +3609,5 @@ var cnames_active = {
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
   "zyy": "zyyou.github.io/notes"
-  "portal": "teuuser.github.io/portal"
+  "portal": "davicarozo.github.io/portal"
 }
